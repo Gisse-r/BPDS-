@@ -137,6 +137,10 @@
   font-size: 0.85rem;
 }
 
+.taskscount {
+  color: #ff00d0;
+}
+
 .emptyState {
   padding: 24px 16px;
   background: #f8fafc;

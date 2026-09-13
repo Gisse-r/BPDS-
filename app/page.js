@@ -119,6 +119,7 @@ export default function Home() {
             ))
           )}
         </ul>
+        <span className={styles.taskscount}>{tasks.length}</span>
       </section>
     </main>
   );
